@@ -1,6 +1,7 @@
 Nguồn mình lấy của bạn hàn lập, thấy viết khá hay và chi tiết dành cho người mới
 
 fb:   https://www.facebook.com/groups/490627898299119/user/61555389550737/
+
 blog: https://lephivu.substack.com/p/lam-the-nao-e-bat-au-voi-bug-bounty
 
 # Bug-Bounty
