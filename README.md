@@ -10,8 +10,6 @@ Làm thế nào để bắt đầu với Bug Bounty
 Làm thế nào để bắt đầu với bug bounty
 Một số kinh nghiệm chia sẻ cho các bạn mới bắt đầu với bug bounty
 
-Mar 22, 2025
-
 Chào các bạn,
 
 Disclaimer: Bài viết chỉ là quan điểm cá nhân của 1 hunter 1 năm kinh nghiệm, để cho người mới có thể tham khảo thôi nhé.
